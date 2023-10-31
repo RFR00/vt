@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        PageVisibility 
+// @name        P.V
 // @namespace   X.I
 // @match       *://*/*
 // @run-at      document-start
 // @grant       none
 // @version     0.1
-// @description Block websites from knowing if you switched tabs/windows
+// @description Block websites
 
 // ==/UserScript==
 
